@@ -26,6 +26,7 @@ program
   .command('check')
   .description('Check events for date changes and update calendar')
   .option('--dry-run', 'Print what would happen without making changes')
+  .option('--resync', 'Force recreate all calendar events (use after switching calendars)')
   .option('--tag <tag>', 'Only check events with a specific tag')
   .option('--month <month>', 'Only check events in a specific typical month')
   .action(async (opts) => {
@@ -60,14 +61,21 @@ program
       if (!opts.dryRun) {
         try {
           auth = await authorize();
-          // Auto-detect dedicated calendar if still using 'primary'
-          if (cfg.google_calendar_id === 'primary') {
-            try {
-              const calendarId = await ensureCalendar(auth, 'Event Watch');
+          // Always ensure we're using the dedicated Event Watch calendar
+          try {
+            const calendarId = await ensureCalendar(auth, 'Event Watch');
+            if (cfg.google_calendar_id !== calendarId) {
+              console.log(`Switching to dedicated calendar: Event Watch (${calendarId})`);
               cfg.google_calendar_id = calendarId;
-              console.log(`Using dedicated calendar: Event Watch (${calendarId})\n`);
-            } catch (calErr) {
-              console.warn(`Could not find/create dedicated calendar: ${calErr.message}`);
+              // Force resync when calendar changes so events get created in the right place
+              if (!opts.resync) {
+                console.log('  Calendar changed — enabling resync automatically.\n');
+                opts.resync = true;
+              }
+            }
+          } catch (calErr) {
+            console.warn(`Could not find/create dedicated calendar: ${calErr.message}`);
+            if (cfg.google_calendar_id === 'primary') {
               console.warn('Events will be added to your primary calendar.\n');
             }
           }
@@ -75,6 +83,14 @@ program
           console.error(`Google Calendar auth failed: ${err.message}`);
           console.error('Continuing in dry-run mode...\n');
           opts.dryRun = true;
+        }
+      }
+
+      // Resync: clear all calendar_event_ids to force recreation
+      if (opts.resync) {
+        console.log('RESYNC: Clearing all calendar event IDs to force recreation.\n');
+        for (const ev of cfg.events) {
+          ev.calendar_event_id = null;
         }
       }
 
