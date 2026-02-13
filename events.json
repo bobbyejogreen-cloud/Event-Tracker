@@ -1669,6 +1669,95 @@
       "last_checked": null,
       "calendar_event_id": null,
       "notes": "No URL — needs fallback search"
+    },
+    {
+      "name": "STATION DC Energy Dominance Meet Up",
+      "url": "https://luma.com/vs68lv3k",
+      "tags": [
+        "energy",
+        "technology",
+        "policy",
+        "station-dc"
+      ],
+      "typical_month": "January",
+      "typical_location": "DC",
+      "organizer": "Station DC",
+      "last_known": {
+        "start": "2026-01-13",
+        "end": "2026-01-13"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Featured remarks from DOE Chief Commercialization Officer"
+    },
+    {
+      "name": "STATION DC Building Relationships in DC",
+      "url": "https://events.stationdc.com/buildingrelationshipsindc",
+      "tags": [
+        "networking",
+        "policy",
+        "station-dc"
+      ],
+      "typical_month": "January",
+      "typical_location": "DC",
+      "organizer": "Station DC",
+      "last_known": {
+        "start": "2026-01-12",
+        "end": "2026-02-09"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "6-module cohort program for STATION DC members"
+    },
+    {
+      "name": "STATION DC Chess Club",
+      "url": "https://luma.com/fh3eqets",
+      "tags": [
+        "networking",
+        "social",
+        "station-dc"
+      ],
+      "typical_month": null,
+      "typical_location": "DC",
+      "organizer": "Station DC",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Monthly recurring — first Monday or Tuesday of every month"
+    },
+    {
+      "name": "STATION DC Space STATION Meet Up",
+      "url": "https://www.stationdc.org/events",
+      "tags": [
+        "space",
+        "technology",
+        "policy",
+        "station-dc"
+      ],
+      "typical_month": null,
+      "typical_location": "DC",
+      "organizer": "Station DC",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Recurring space-focused networking event"
+    },
+    {
+      "name": "CRUSH 2026 (Station DC)",
+      "url": "http://www.crush26.com/",
+      "tags": [
+        "technology",
+        "venture",
+        "networking",
+        "station-dc"
+      ],
+      "typical_month": "December",
+      "typical_location": "DC",
+      "organizer": "Station DC",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Flagship year-end tech and venture ecosystem summit + celebration"
     }
   ]
 }

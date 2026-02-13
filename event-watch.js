@@ -72,6 +72,8 @@ program
                 console.log('  Calendar changed — enabling resync automatically.\n');
                 opts.resync = true;
               }
+              // Save calendar ID immediately so it persists
+              config.save(cfg);
             }
           } catch (calErr) {
             console.warn(`Could not find/create dedicated calendar: ${calErr.message}`);
@@ -219,10 +221,12 @@ program
           summary.errors++;
         }
 
+        // Save config after each event so progress survives interruptions
+        config.save(cfg);
         console.log();
       }
 
-      // Save config
+      // Final save with global timestamp
       cfg.last_global_check = new Date().toISOString();
       config.save(cfg);
 
