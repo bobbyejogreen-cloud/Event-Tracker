@@ -1212,20 +1212,21 @@
       "calendar_event_id": null
     },
     {
-      "name": "Reindustrialize",
-      "url": null,
+      "name": "Reindustrialize Summit",
+      "url": "https://reindustrialize.com/",
       "tags": [
         "defense",
         "manufacturing",
-        "industrial base"
+        "industrial base",
+        "technology"
       ],
       "typical_month": "July",
       "typical_location": "MI",
-      "organizer": null,
+      "organizer": "Reindustrialize",
       "last_known": null,
       "last_checked": null,
       "calendar_event_id": null,
-      "notes": "No URL or organizer — needs fallback search"
+      "notes": "Annual summit in Detroit — tech, manufacturing, government, defense leaders"
     },
     {
       "name": "Global Quantum Forum",

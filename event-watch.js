@@ -129,8 +129,10 @@ program
                 );
               }
             } else {
-              console.log('  All fallback attempts failed, skipping.\n');
+              console.log('  All fallback attempts failed, skipping.');
               summary.errors++;
+              config.save(cfg);
+              console.log();
               continue;
             }
           }
@@ -140,12 +142,14 @@ program
           const extracted = await extractEventDates(pageResult.text, event);
 
           if (extracted.confidence === 'not_found') {
-            console.log('  No dates found (confidence: not_found)\n');
+            console.log('  No dates found (confidence: not_found)');
             const cfgEvent = config.findEvent(cfg, event.name);
             if (cfgEvent) {
               cfgEvent.last_checked = new Date().toISOString();
             }
             summary.notFound++;
+            config.save(cfg);
+            console.log();
             continue;
           }
 
