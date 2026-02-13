@@ -1,0 +1,1674 @@
+{
+  "google_calendar_id": "primary",
+  "last_global_check": null,
+  "events": [
+    {
+      "name": "Davos (World Economic Forum)",
+      "url": "https://www.weforum.org/events/world-economic-forum-annual-meeting-2026/",
+      "tags": [
+        "international",
+        "policy",
+        "economics"
+      ],
+      "typical_month": "January",
+      "typical_location": "Davos, Switzerland",
+      "organizer": "WEF",
+      "last_known": {
+        "start": "2026-01-19",
+        "end": "2026-01-23"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "SpaceCom / Space Congress",
+      "url": "https://www.spacecomexpo.com/",
+      "tags": [
+        "space",
+        "defense"
+      ],
+      "typical_month": "January",
+      "typical_location": "FL",
+      "organizer": "SpaceCom",
+      "last_known": {
+        "start": "2026-01-11",
+        "end": "2026-01-14"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Surface Navy National Symposium",
+      "url": "https://surfacewarfare.org/events/national-symposium/",
+      "tags": [
+        "defense",
+        "navy"
+      ],
+      "typical_month": "January",
+      "typical_location": "VA",
+      "organizer": "SNA",
+      "last_known": {
+        "start": "2026-01-13",
+        "end": "2026-01-15"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Apex Defense Summit",
+      "url": "https://www.apexdefense.org/",
+      "tags": [
+        "defense"
+      ],
+      "typical_month": "January",
+      "typical_location": "DC",
+      "organizer": "Apex Defense",
+      "last_known": {
+        "start": "2026-01-27",
+        "end": "2026-01-28"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "NGAUS Industry Day",
+      "url": "https://www.ngaus.org/events/28th-annual-industry-day",
+      "tags": [
+        "defense",
+        "national guard"
+      ],
+      "typical_month": "February",
+      "typical_location": "DC",
+      "organizer": "NGAUS",
+      "last_known": {
+        "start": "2026-02-09",
+        "end": "2026-02-10"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "World Defense Show",
+      "url": "https://www.worlddefenseshow.com/",
+      "tags": [
+        "international",
+        "defense"
+      ],
+      "typical_month": "February",
+      "typical_location": "Riyadh, KSA",
+      "organizer": "GAMI (Saudi General Authority for Military Industries)",
+      "last_known": {
+        "start": "2026-02-08",
+        "end": "2026-02-12"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Munich Security Conference",
+      "url": "https://securityconference.org/",
+      "tags": [
+        "international",
+        "defense",
+        "policy"
+      ],
+      "typical_month": "February",
+      "typical_location": "Munich, Germany",
+      "organizer": "MSC",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "AFCEA West",
+      "url": "https://www.westconference.org/",
+      "tags": [
+        "defense",
+        "IT",
+        "cyber"
+      ],
+      "typical_month": "February",
+      "typical_location": "CA",
+      "organizer": "AFCEA",
+      "last_known": {
+        "start": "2026-02-10",
+        "end": "2026-02-12"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "NDIA Special Operations Symposium",
+      "url": null,
+      "tags": [
+        "defense",
+        "special operations"
+      ],
+      "typical_month": "February",
+      "typical_location": "DC",
+      "organizer": "NDIA",
+      "last_known": {
+        "start": "2026-02-17",
+        "end": "2026-02-18"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Generic NDIA events page — let fallback search handle"
+    },
+    {
+      "name": "National Logistics Forum",
+      "url": null,
+      "tags": [
+        "defense",
+        "logistics"
+      ],
+      "typical_month": "February",
+      "typical_location": "FL",
+      "organizer": "NDIA",
+      "last_known": {
+        "start": "2026-02-17",
+        "end": "2026-02-19"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Generic NDIA events page — let fallback search handle"
+    },
+    {
+      "name": "Joint Fires Summit",
+      "url": "https://fires.dsigroup.org/",
+      "tags": [
+        "defense",
+        "fires"
+      ],
+      "typical_month": "February",
+      "typical_location": "AL",
+      "organizer": "DSI",
+      "last_known": {
+        "start": "2026-02-18",
+        "end": "2026-02-19"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "CyberTalks",
+      "url": "https://cybertalks.upgather.com/",
+      "tags": [
+        "cyber",
+        "defense"
+      ],
+      "typical_month": "February",
+      "typical_location": "DC",
+      "organizer": "CyberScoop",
+      "last_known": {
+        "start": "2026-02-19",
+        "end": "2026-02-19"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "TR/EX",
+      "url": "https://www.noble.com/trex-2026-badge-registration",
+      "tags": [
+        "defense",
+        "technology"
+      ],
+      "typical_month": "February",
+      "typical_location": "DC",
+      "organizer": "Noble",
+      "last_known": {
+        "start": "2026-02-19",
+        "end": "2026-02-19"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Creative Disruptors in the Desert",
+      "url": "https://creativedefense.org/events/",
+      "tags": [
+        "defense",
+        "innovation"
+      ],
+      "typical_month": "February",
+      "typical_location": "CA",
+      "organizer": "CDF",
+      "last_known": {
+        "start": "2026-02-20",
+        "end": "2026-02-21"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Tactical Wheeled Vehicles Conference",
+      "url": null,
+      "tags": [
+        "defense",
+        "vehicles"
+      ],
+      "typical_month": "February",
+      "typical_location": "PA",
+      "organizer": "NDIA",
+      "last_known": {
+        "start": "2026-02-23",
+        "end": "2026-02-25"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Generic NDIA events page — let fallback search handle"
+    },
+    {
+      "name": "AFA Warfare Symposium",
+      "url": "https://www.afa.org/afa-warfare-symposium/",
+      "tags": [
+        "defense",
+        "air force"
+      ],
+      "typical_month": "February",
+      "typical_location": "CO",
+      "organizer": "AFA",
+      "last_known": {
+        "start": "2026-02-23",
+        "end": "2026-02-25"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "How We Win Summit (Feb)",
+      "url": "https://luma.com/6uiap23f",
+      "tags": [
+        "defense",
+        "technology",
+        "innovation"
+      ],
+      "typical_month": "February",
+      "typical_location": "DC",
+      "organizer": "Station DC",
+      "last_known": {
+        "start": "2026-02-26",
+        "end": "2026-02-26"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Defense Software and Data Summit",
+      "url": null,
+      "tags": [
+        "defense",
+        "software",
+        "data"
+      ],
+      "typical_month": "February",
+      "typical_location": "DC",
+      "organizer": "Govini",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL found — needs fallback search"
+    },
+    {
+      "name": "Loitering Munitions Summit",
+      "url": "https://loiteringmunitions.dsigroup.org/",
+      "tags": [
+        "defense",
+        "munitions"
+      ],
+      "typical_month": "March",
+      "typical_location": "AL",
+      "organizer": "DSI",
+      "last_known": {
+        "start": "2026-03-03",
+        "end": "2026-03-04"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Space Operations Summit",
+      "url": "https://space.dsigroup.org/",
+      "tags": [
+        "defense",
+        "space"
+      ],
+      "typical_month": "March",
+      "typical_location": "MD",
+      "organizer": "DSI",
+      "last_known": {
+        "start": "2026-03-04",
+        "end": "2026-03-05"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "IEEE Aerospace Conference",
+      "url": "https://www.aeroconf.org/",
+      "tags": [
+        "aerospace",
+        "engineering",
+        "IEEE"
+      ],
+      "typical_month": "March",
+      "typical_location": "MT",
+      "organizer": "IEEE",
+      "last_known": {
+        "start": "2026-03-07",
+        "end": "2026-03-14"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "POST Conference",
+      "url": "https://www.postconference.org/",
+      "tags": [
+        "defense"
+      ],
+      "typical_month": "March",
+      "typical_location": "HI",
+      "organizer": "NDIA",
+      "last_known": {
+        "start": "2026-03-09",
+        "end": "2026-03-12"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Tectonic Defense Summit",
+      "url": "https://events.tectonicdefense.com/tectonic-defense-summit",
+      "tags": [
+        "defense",
+        "technology"
+      ],
+      "typical_month": "March",
+      "typical_location": "TX",
+      "organizer": "Tectonic",
+      "last_known": {
+        "start": "2026-03-11",
+        "end": "2026-03-12"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "SXSW",
+      "url": "https://sxsw.com/conference/",
+      "tags": [
+        "technology",
+        "innovation",
+        "culture"
+      ],
+      "typical_month": "March",
+      "typical_location": "TX",
+      "organizer": "Capital Factory",
+      "last_known": {
+        "start": "2026-03-12",
+        "end": "2026-03-18"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "NVIDIA GTC",
+      "url": "https://www.nvidia.com/gtc/",
+      "tags": [
+        "technology",
+        "AI",
+        "GPU"
+      ],
+      "typical_month": "March",
+      "typical_location": "CA",
+      "organizer": "NVIDIA",
+      "last_known": {
+        "start": "2026-03-16",
+        "end": "2026-03-19"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "McAleese Defense Programs Conference",
+      "url": "https://mcaleese.com/news-and-media",
+      "tags": [
+        "defense",
+        "policy",
+        "budget"
+      ],
+      "typical_month": "March",
+      "typical_location": "DC",
+      "organizer": "McAleese and Assoc",
+      "last_known": {
+        "start": "2026-03-17",
+        "end": "2026-03-17"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Homeland Security Week",
+      "url": "https://www.idga.org/events-homelandsecurityweek",
+      "tags": [
+        "defense",
+        "homeland security"
+      ],
+      "typical_month": "March",
+      "typical_location": "MD",
+      "organizer": "IDGA",
+      "last_known": {
+        "start": "2026-03-17",
+        "end": "2026-03-18"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Human Systems Conference",
+      "url": null,
+      "tags": [
+        "defense",
+        "human systems"
+      ],
+      "typical_month": "March",
+      "typical_location": "VA",
+      "organizer": "NDIA",
+      "last_known": {
+        "start": "2026-03-17",
+        "end": "2026-03-18"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Generic NDIA events page — let fallback search handle"
+    },
+    {
+      "name": "Munitions Executive Summit",
+      "url": null,
+      "tags": [
+        "defense",
+        "munitions"
+      ],
+      "typical_month": "March",
+      "typical_location": "NJ",
+      "organizer": "NDIA",
+      "last_known": {
+        "start": "2026-03-17",
+        "end": "2026-03-18"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Generic NDIA events page — let fallback search handle"
+    },
+    {
+      "name": "Operational Medicine Summit",
+      "url": "https://www.operationalmed.com/",
+      "tags": [
+        "defense",
+        "healthcare",
+        "military medicine"
+      ],
+      "typical_month": "March",
+      "typical_location": "TX",
+      "organizer": "DSI",
+      "last_known": {
+        "start": "2026-03-17",
+        "end": "2026-03-18"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Insider Risk Summit",
+      "url": "https://insiderwest.dsigroup.org/",
+      "tags": [
+        "defense",
+        "security",
+        "insider threat"
+      ],
+      "typical_month": "March",
+      "typical_location": "CA",
+      "organizer": "DSI",
+      "last_known": {
+        "start": "2026-03-18",
+        "end": "2026-03-19"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Elastic Public Sector Summit",
+      "url": "https://elasticpublicsectorsummit.upgather.com/",
+      "tags": [
+        "technology",
+        "public sector"
+      ],
+      "typical_month": "March",
+      "typical_location": "DC",
+      "organizer": "FedScoop",
+      "last_known": {
+        "start": "2026-03-19",
+        "end": "2026-03-19"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Undersea Warfare Conference",
+      "url": null,
+      "tags": [
+        "defense",
+        "navy",
+        "undersea"
+      ],
+      "typical_month": "March",
+      "typical_location": "CA",
+      "organizer": "NDIA",
+      "last_known": {
+        "start": "2026-03-23",
+        "end": "2026-03-25"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Generic NDIA events page — let fallback search handle"
+    },
+    {
+      "name": "RSAC (RSA Conference)",
+      "url": "https://www.rsaconference.com/usa",
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "typical_month": "March",
+      "typical_location": "CA",
+      "organizer": "RSAC",
+      "last_known": {
+        "start": "2026-03-23",
+        "end": "2026-03-26"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "AUSA Global Force Symposium",
+      "url": "https://meetings.ausa.org/globalforce/2026/",
+      "tags": [
+        "defense",
+        "army"
+      ],
+      "typical_month": "March",
+      "typical_location": "AL",
+      "organizer": "AUSA",
+      "last_known": {
+        "start": "2026-03-24",
+        "end": "2026-03-26"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "How We Win Summit (Mar)",
+      "url": null,
+      "tags": [
+        "defense",
+        "technology",
+        "innovation"
+      ],
+      "typical_month": "March",
+      "typical_location": "DC",
+      "organizer": "Station DC",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — March edition, check Station DC site"
+    },
+    {
+      "name": "Wharton Aerospace Conference",
+      "url": null,
+      "tags": [
+        "aerospace",
+        "finance",
+        "defense"
+      ],
+      "typical_month": "March",
+      "typical_location": "PA",
+      "organizer": "Wharton",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — search Wharton events page"
+    },
+    {
+      "name": "Border Security and Intelligence",
+      "url": "https://border.dsigroup.org/",
+      "tags": [
+        "defense",
+        "border security",
+        "intelligence"
+      ],
+      "typical_month": "April",
+      "typical_location": "DC",
+      "organizer": "DSI",
+      "last_known": {
+        "start": "2026-04-01",
+        "end": "2026-04-02"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "TechNatSec",
+      "url": "https://www.technatsec.com/",
+      "tags": [
+        "defense",
+        "technology",
+        "national security"
+      ],
+      "typical_month": "April",
+      "typical_location": "MA",
+      "organizer": "MIT/Harvard",
+      "last_known": {
+        "start": "2026-04-03",
+        "end": "2026-04-04"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Assured PNT Summit",
+      "url": "https://pnt.dsigroup.org/",
+      "tags": [
+        "defense",
+        "PNT",
+        "navigation"
+      ],
+      "typical_month": "April",
+      "typical_location": "DC",
+      "organizer": "DSI",
+      "last_known": {
+        "start": "2026-04-07",
+        "end": "2026-04-08"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Unmanned and Autonomous Systems Summit (ADNE)",
+      "url": "https://www.unmannedsystemstechnology.com/events/",
+      "tags": [
+        "defense",
+        "unmanned",
+        "autonomous"
+      ],
+      "typical_month": "April",
+      "typical_location": "VA",
+      "organizer": "ADNE",
+      "last_known": {
+        "start": "2026-04-08",
+        "end": "2026-04-09"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Unmanned and Autonomous Summit (DSI)",
+      "url": "https://unmanned.dsigroup.org/",
+      "tags": [
+        "defense",
+        "unmanned",
+        "autonomous"
+      ],
+      "typical_month": "April",
+      "typical_location": "DC",
+      "organizer": "DSI",
+      "last_known": {
+        "start": "2026-04-08",
+        "end": "2026-04-09"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "MOSA for Defense Summit",
+      "url": "https://mosa.dsigroup.org/",
+      "tags": [
+        "defense",
+        "modular open systems"
+      ],
+      "typical_month": "April",
+      "typical_location": "DC",
+      "organizer": "DSI",
+      "last_known": {
+        "start": "2026-04-08",
+        "end": "2026-04-09"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Space Symposium",
+      "url": "https://www.spacesymposium.org/",
+      "tags": [
+        "space",
+        "defense"
+      ],
+      "typical_month": "April",
+      "typical_location": "CO",
+      "organizer": "Space Foundation",
+      "last_known": {
+        "start": "2026-04-13",
+        "end": "2026-04-16"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Sea Air Space",
+      "url": "https://seaairspace.org/",
+      "tags": [
+        "defense",
+        "navy",
+        "maritime"
+      ],
+      "typical_month": "April",
+      "typical_location": "MD",
+      "organizer": "Navy League",
+      "last_known": {
+        "start": "2026-04-19",
+        "end": "2026-04-22"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Missile Defense Conference",
+      "url": null,
+      "tags": [
+        "defense",
+        "missile defense"
+      ],
+      "typical_month": "April",
+      "typical_location": "DC",
+      "organizer": "NDIA",
+      "last_known": {
+        "start": "2026-04-21",
+        "end": "2026-04-22"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Generic NDIA events page — let fallback search handle"
+    },
+    {
+      "name": "Wildfire Technology Week",
+      "url": "https://www.idga.org/events-wildfiremanagement/",
+      "tags": [
+        "wildfire",
+        "technology",
+        "emergency management"
+      ],
+      "typical_month": "April",
+      "typical_location": "CA",
+      "organizer": "IDGA",
+      "last_known": {
+        "start": "2026-04-21",
+        "end": "2026-04-22"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "DOW/VA Health and Gov Summit",
+      "url": "https://healthit.dsigroup.org/",
+      "tags": [
+        "healthcare",
+        "veterans",
+        "government"
+      ],
+      "typical_month": "April",
+      "typical_location": "DC",
+      "organizer": "DSI",
+      "last_known": {
+        "start": "2026-04-28",
+        "end": "2026-04-29"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Modern Day Marine",
+      "url": "https://marinemilitaryexpos.com/",
+      "tags": [
+        "defense",
+        "marines"
+      ],
+      "typical_month": "April",
+      "typical_location": "DC",
+      "organizer": "Modern Day Marine",
+      "last_known": {
+        "start": "2026-04-28",
+        "end": "2026-04-30"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Hill and Valley Forum",
+      "url": null,
+      "tags": [
+        "defense",
+        "policy"
+      ],
+      "typical_month": "April",
+      "typical_location": "DC",
+      "organizer": "Hill and Valley Forum Foundation",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — needs fallback search"
+    },
+    {
+      "name": "TEVCON (Technology Energy Vehicle Conference)",
+      "url": null,
+      "tags": [
+        "technology",
+        "energy",
+        "vehicles"
+      ],
+      "typical_month": "April",
+      "typical_location": "CA",
+      "organizer": "TEVCON",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — needs fallback search"
+    },
+    {
+      "name": "Milken Institute Global Conference",
+      "url": "https://milkeninstitute.org/events/global-conference-2026",
+      "tags": [
+        "finance",
+        "policy",
+        "economics"
+      ],
+      "typical_month": "May",
+      "typical_location": "CA",
+      "organizer": "Milken Institute",
+      "last_known": {
+        "start": "2026-05-03",
+        "end": "2026-05-06"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "IBM Think",
+      "url": "https://www.ibm.com/events/think",
+      "tags": [
+        "technology",
+        "AI",
+        "enterprise"
+      ],
+      "typical_month": "May",
+      "typical_location": "MA",
+      "organizer": "IBM",
+      "last_known": {
+        "start": "2026-05-04",
+        "end": "2026-05-07"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Fusion AI (UiPath)",
+      "url": "https://uipathfusionpublicsector.upgather.com/",
+      "tags": [
+        "AI",
+        "automation",
+        "public sector"
+      ],
+      "typical_month": "May",
+      "typical_location": "DC",
+      "organizer": "UiPath",
+      "last_known": {
+        "start": "2026-05-05",
+        "end": "2026-05-05"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Border Security Expo",
+      "url": "https://www.bordersecurityexpo.com/",
+      "tags": [
+        "defense",
+        "border security"
+      ],
+      "typical_month": "May",
+      "typical_location": "AZ",
+      "organizer": "Border Security Expo",
+      "last_known": {
+        "start": "2026-05-05",
+        "end": "2026-05-06"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "SMR & Advanced Reactor Conference",
+      "url": "https://events.reutersevents.com/nuclear/smr-usa",
+      "tags": [
+        "energy",
+        "nuclear",
+        "SMR"
+      ],
+      "typical_month": "May",
+      "typical_location": "TX",
+      "organizer": "Reuters",
+      "last_known": {
+        "start": "2026-05-11",
+        "end": "2026-05-12"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "AUVSI Xponential",
+      "url": "https://www.auvsi.org/event/xponential-2026/",
+      "tags": [
+        "unmanned",
+        "autonomous",
+        "robotics"
+      ],
+      "typical_month": "May",
+      "typical_location": "MI",
+      "organizer": "AUVSI",
+      "last_known": {
+        "start": "2026-05-11",
+        "end": "2026-05-14"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Air Dominance Summit",
+      "url": "https://www.idga.org/events-air-dominance-summit",
+      "tags": [
+        "defense",
+        "air force"
+      ],
+      "typical_month": "May",
+      "typical_location": "NV",
+      "organizer": "IDGA",
+      "last_known": {
+        "start": "2026-05-12",
+        "end": "2026-05-13"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Assured Logistics Summit",
+      "url": null,
+      "tags": [
+        "defense",
+        "logistics"
+      ],
+      "typical_month": "May",
+      "typical_location": "DC",
+      "organizer": "DSI",
+      "last_known": {
+        "start": "2026-05-12",
+        "end": "2026-05-13"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Generic DSI events page — let fallback search handle"
+    },
+    {
+      "name": "Offset Symposium",
+      "url": "https://luma.com/offset-2026",
+      "tags": [
+        "defense",
+        "technology",
+        "innovation"
+      ],
+      "typical_month": "May",
+      "typical_location": "DC",
+      "organizer": "Second Front",
+      "last_known": {
+        "start": "2026-05-14",
+        "end": "2026-05-14"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "SOF Week",
+      "url": "https://sofweek.org/",
+      "tags": [
+        "defense",
+        "special operations"
+      ],
+      "typical_month": "May",
+      "typical_location": "FL",
+      "organizer": "Global SOF",
+      "last_known": {
+        "start": "2026-05-18",
+        "end": "2026-05-21"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Reagan National Economic Forum",
+      "url": "https://www.reaganfoundation.org/reagan-institute/",
+      "tags": [
+        "economics",
+        "policy"
+      ],
+      "typical_month": "May",
+      "typical_location": "DC",
+      "organizer": "Reagan Institute",
+      "last_known": {
+        "start": "2026-05-28",
+        "end": "2026-05-29"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Supply Chain Alliance Symposium",
+      "url": null,
+      "tags": [
+        "defense",
+        "supply chain",
+        "logistics"
+      ],
+      "typical_month": "June",
+      "typical_location": "OH",
+      "organizer": "NDIA",
+      "last_known": {
+        "start": "2026-06-02",
+        "end": "2026-06-03"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Generic NDIA events page — let fallback search handle"
+    },
+    {
+      "name": "DefenseOne Tech Summit",
+      "url": "https://events.defenseone.com/",
+      "tags": [
+        "defense",
+        "technology"
+      ],
+      "typical_month": "June",
+      "typical_location": "VA",
+      "organizer": "DefenseOne",
+      "last_known": {
+        "start": "2026-06-16",
+        "end": "2026-06-16"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "InnovateEnergy Week",
+      "url": "https://innovateenergyweek.com/",
+      "tags": [
+        "energy",
+        "innovation"
+      ],
+      "typical_month": "June",
+      "typical_location": "TX",
+      "organizer": "InnovateEnergy",
+      "last_known": {
+        "start": "2026-06-22",
+        "end": "2026-06-24"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Quantum Tech World",
+      "url": "https://www.alphaevents.com/events-quantumtechus",
+      "tags": [
+        "quantum",
+        "technology"
+      ],
+      "typical_month": "June",
+      "typical_location": "MA",
+      "organizer": "Alpha Events",
+      "last_known": {
+        "start": "2026-06-25",
+        "end": "2026-06-26"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Paris Air Show",
+      "url": "https://www.siae.fr/en/",
+      "tags": [
+        "aerospace",
+        "international",
+        "defense"
+      ],
+      "typical_month": "June",
+      "typical_location": "Paris, France",
+      "organizer": "SIAE",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Odd years only (2025, 2027). Alternates with Farnborough."
+    },
+    {
+      "name": "CNAS National Security Conference",
+      "url": null,
+      "tags": [
+        "defense",
+        "national security",
+        "policy"
+      ],
+      "typical_month": "June",
+      "typical_location": "DC",
+      "organizer": "CNAS",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — needs fallback search"
+    },
+    {
+      "name": "Farnborough International Airshow",
+      "url": "https://www.farnboroughairshow.com/",
+      "tags": [
+        "aerospace",
+        "international",
+        "defense"
+      ],
+      "typical_month": "July",
+      "typical_location": "Farnborough, UK",
+      "organizer": "Farnborough International",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Even years only (2026, 2028). Alternates with Paris Air Show."
+    },
+    {
+      "name": "Royal Edinburgh Military Tattoo",
+      "url": "https://www.edintattoo.co.uk/",
+      "tags": [
+        "military",
+        "international",
+        "culture"
+      ],
+      "typical_month": "August",
+      "typical_location": "Edinburgh, UK",
+      "organizer": "Royal Edinburgh Military Tattoo",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Reindustrialize",
+      "url": null,
+      "tags": [
+        "defense",
+        "manufacturing",
+        "industrial base"
+      ],
+      "typical_month": "July",
+      "typical_location": "MI",
+      "organizer": null,
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL or organizer — needs fallback search"
+    },
+    {
+      "name": "Global Quantum Forum",
+      "url": null,
+      "tags": [
+        "quantum",
+        "technology"
+      ],
+      "typical_month": "July",
+      "typical_location": "IL",
+      "organizer": null,
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL or organizer — needs fallback search"
+    },
+    {
+      "name": "Carasoft DevSecOps Conference",
+      "url": "https://carahevents.carahsoft.com/",
+      "tags": [
+        "technology",
+        "DevSecOps",
+        "government"
+      ],
+      "typical_month": "July",
+      "typical_location": "VA",
+      "organizer": "Carasoft",
+      "last_known": {
+        "start": "2026-07-28",
+        "end": "2026-07-28"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Veterans Healthcare Summit",
+      "url": "https://www.idga.org/events-veteransaffairshealthcare",
+      "tags": [
+        "healthcare",
+        "veterans"
+      ],
+      "typical_month": "July",
+      "typical_location": "MD",
+      "organizer": "IDGA",
+      "last_known": {
+        "start": "2026-07-28",
+        "end": "2026-07-29"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Counter UAS Conference",
+      "url": "https://www.idga.org/events-counteruas-usa",
+      "tags": [
+        "defense",
+        "counter-UAS"
+      ],
+      "typical_month": "August",
+      "typical_location": "VA",
+      "organizer": "IDGA",
+      "last_known": {
+        "start": "2026-08-18",
+        "end": "2026-08-19"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "AI for Defense Transformation",
+      "url": "https://www.idga.org/events-ai-defense-transformation",
+      "tags": [
+        "defense",
+        "AI"
+      ],
+      "typical_month": "August",
+      "typical_location": "DC",
+      "organizer": "IDGA",
+      "last_known": {
+        "start": "2026-08-18",
+        "end": "2026-08-19"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Small Sat Conference",
+      "url": "https://smallsat.org/",
+      "tags": [
+        "space",
+        "satellites"
+      ],
+      "typical_month": "August",
+      "typical_location": "UT",
+      "organizer": "SmallSat",
+      "last_known": {
+        "start": "2026-08-23",
+        "end": "2026-08-26"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "FedSuperNova",
+      "url": "https://fedsupernova.com/",
+      "tags": [
+        "defense",
+        "technology",
+        "government"
+      ],
+      "typical_month": "August",
+      "typical_location": "DC",
+      "organizer": "Capital Factory",
+      "last_known": {
+        "start": "2026-08-25",
+        "end": "2026-08-27"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "NGAUS General Conference and Exhibition",
+      "url": "https://www.ngaus.org/events/148th-general-conference-exhibition",
+      "tags": [
+        "defense",
+        "national guard"
+      ],
+      "typical_month": "August",
+      "typical_location": "Varies",
+      "organizer": "NGAUS",
+      "last_known": {
+        "start": "2026-08-28",
+        "end": "2026-08-31"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "IEEE Quantum Week",
+      "url": "https://qce.quantum.ieee.org/2026/",
+      "tags": [
+        "quantum",
+        "technology",
+        "IEEE"
+      ],
+      "typical_month": "September",
+      "typical_location": "Toronto, Canada",
+      "organizer": "IEEE",
+      "last_known": {
+        "start": "2026-09-13",
+        "end": "2026-09-18"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Quantum World Congress",
+      "url": "https://www.quantumworldcongress.com/",
+      "tags": [
+        "quantum",
+        "technology"
+      ],
+      "typical_month": "September",
+      "typical_location": "MD",
+      "organizer": "QWC",
+      "last_known": {
+        "start": "2026-09-22",
+        "end": "2026-09-24"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "DefenseTech Connect Innovation Summit",
+      "url": "https://techconnect.org/",
+      "tags": [
+        "defense",
+        "technology",
+        "innovation"
+      ],
+      "typical_month": "September",
+      "typical_location": "MD",
+      "organizer": "TechConnect",
+      "last_known": {
+        "start": "2026-09-22",
+        "end": "2026-09-24"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Border Technology Summit",
+      "url": "https://www.idga.org/events-border-tech-summit",
+      "tags": [
+        "defense",
+        "border security",
+        "technology"
+      ],
+      "typical_month": "September",
+      "typical_location": "CA",
+      "organizer": "IDGA",
+      "last_known": {
+        "start": "2026-09-29",
+        "end": "2026-09-30"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Global Aerospace Summit",
+      "url": null,
+      "tags": [
+        "aerospace",
+        "defense"
+      ],
+      "typical_month": "September",
+      "typical_location": "DC",
+      "organizer": "U.S. Chamber of Commerce",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — needs fallback search"
+    },
+    {
+      "name": "Stanford DEFCON",
+      "url": null,
+      "tags": [
+        "defense",
+        "technology",
+        "academia"
+      ],
+      "typical_month": "September",
+      "typical_location": "CA",
+      "organizer": "Stanford",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — needs fallback search"
+    },
+    {
+      "name": "Defense Logistics and Energy",
+      "url": null,
+      "tags": [
+        "defense",
+        "logistics",
+        "energy"
+      ],
+      "typical_month": "September",
+      "typical_location": "VA",
+      "organizer": "IDGA",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — needs fallback search"
+    },
+    {
+      "name": "Defense News Conference",
+      "url": null,
+      "tags": [
+        "defense",
+        "media"
+      ],
+      "typical_month": "September",
+      "typical_location": "DC",
+      "organizer": "Defense News",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — needs fallback search"
+    },
+    {
+      "name": "Creative Disruptors in the Lakes",
+      "url": "https://creativedefense.org/events/",
+      "tags": [
+        "defense",
+        "innovation"
+      ],
+      "typical_month": "September",
+      "typical_location": "TBD",
+      "organizer": "CDF",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Apex Europe",
+      "url": "https://www.apexdefense.org/participate/apex-europe",
+      "tags": [
+        "defense",
+        "international"
+      ],
+      "typical_month": "October",
+      "typical_location": "London, UK",
+      "organizer": "Apex Defense",
+      "last_known": {
+        "start": "2026-10-07",
+        "end": "2026-10-08"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "AUSA Annual Conference",
+      "url": "https://meetings.ausa.org/annual/2026/",
+      "tags": [
+        "defense",
+        "army"
+      ],
+      "typical_month": "October",
+      "typical_location": "DC",
+      "organizer": "AUSA",
+      "last_known": {
+        "start": "2026-10-12",
+        "end": "2026-10-14"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "IQT Quantum+AI",
+      "url": "https://iqtevent.com/quantumai/",
+      "tags": [
+        "quantum",
+        "AI"
+      ],
+      "typical_month": "October",
+      "typical_location": "NY",
+      "organizer": "IQT",
+      "last_known": {
+        "start": "2026-10-25",
+        "end": "2026-10-27"
+      },
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Halifax International Security Forum",
+      "url": "https://halifaxtheforum.org/",
+      "tags": [
+        "international",
+        "defense",
+        "security"
+      ],
+      "typical_month": "November",
+      "typical_location": "Halifax, Canada",
+      "organizer": "HISF",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Baird Defense & Government Conference",
+      "url": null,
+      "tags": [
+        "defense",
+        "finance",
+        "investor"
+      ],
+      "typical_month": "November",
+      "typical_location": "DC",
+      "organizer": "Baird",
+      "last_known": {
+        "start": "2026-11-17",
+        "end": "2026-11-17"
+      },
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "Baird also hosts Annual Investor Conf in VA — separate event"
+    },
+    {
+      "name": "Baird Annual Investor Conference",
+      "url": null,
+      "tags": [
+        "finance",
+        "investor",
+        "defense"
+      ],
+      "typical_month": "November",
+      "typical_location": "VA",
+      "organizer": "Baird",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — needs fallback search"
+    },
+    {
+      "name": "America First Policy Experience",
+      "url": null,
+      "tags": [
+        "policy"
+      ],
+      "typical_month": "November",
+      "typical_location": "FL",
+      "organizer": "America First Policy Institute",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — needs fallback search"
+    },
+    {
+      "name": "Axios Future of Defense",
+      "url": null,
+      "tags": [
+        "defense",
+        "media"
+      ],
+      "typical_month": "November",
+      "typical_location": "DC",
+      "organizer": "Axios",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — needs fallback search"
+    },
+    {
+      "name": "Reagan National Defense Forum",
+      "url": "https://www.reaganfoundation.org/reagan-institute/",
+      "tags": [
+        "defense",
+        "policy"
+      ],
+      "typical_month": "December",
+      "typical_location": "CA",
+      "organizer": "Reagan Institute",
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null
+    },
+    {
+      "name": "Q2B (Quantum to Business)",
+      "url": null,
+      "tags": [
+        "quantum",
+        "technology",
+        "business"
+      ],
+      "typical_month": "December",
+      "typical_location": "CA",
+      "organizer": null,
+      "last_known": null,
+      "last_checked": null,
+      "calendar_event_id": null,
+      "notes": "No URL — needs fallback search"
+    }
+  ]
+}

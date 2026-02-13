@@ -1,0 +1,28 @@
+{
+  "name": "event-watch",
+  "version": "1.0.0",
+  "description": "CLI tool to monitor industry event websites for date announcements and sync with Google Calendar",
+  "main": "event-watch.js",
+  "bin": {
+    "event-watch": "./event-watch.js"
+  },
+  "scripts": {
+    "start": "node event-watch.js",
+    "check": "node event-watch.js check",
+    "check:dry": "node event-watch.js check --dry-run",
+    "list": "node event-watch.js list"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "cheerio": "^1.0.0",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.7",
+    "googleapis": "^144.0.0",
+    "robots-parser": "^3.0.1",
+    "cli-table3": "^0.6.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
