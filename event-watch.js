@@ -60,6 +60,17 @@ program
       if (!opts.dryRun) {
         try {
           auth = await authorize();
+          // Auto-detect dedicated calendar if still using 'primary'
+          if (cfg.google_calendar_id === 'primary') {
+            try {
+              const calendarId = await ensureCalendar(auth, 'Event Watch');
+              cfg.google_calendar_id = calendarId;
+              console.log(`Using dedicated calendar: Event Watch (${calendarId})\n`);
+            } catch (calErr) {
+              console.warn(`Could not find/create dedicated calendar: ${calErr.message}`);
+              console.warn('Events will be added to your primary calendar.\n');
+            }
+          }
         } catch (err) {
           console.error(`Google Calendar auth failed: ${err.message}`);
           console.error('Continuing in dry-run mode...\n');
@@ -130,12 +141,17 @@ program
           // Step 4: Compare with last known
           const cfgEvent = config.findEvent(cfg, event.name);
           const datesChanged = haveDatesChanged(cfgEvent.last_known, extracted);
+          const needsCalendarSync = !cfgEvent.calendar_event_id;
 
           if (datesChanged) {
             console.log(
               `  DATES CHANGED: ${formatDateRange(cfgEvent.last_known)} → ${extracted.start_date} to ${extracted.end_date}`
             );
+          } else if (needsCalendarSync) {
+            console.log('  Dates unchanged, but no calendar event exists — syncing.');
+          }
 
+          if (datesChanged || needsCalendarSync) {
             // Step 5: Update/create calendar event
             if (!opts.dryRun && auth) {
               try {
@@ -147,7 +163,7 @@ program
                   cfgEvent.calendar_event_id
                 );
                 cfgEvent.calendar_event_id = calEventId;
-                if (cfgEvent.last_known) {
+                if (datesChanged && cfgEvent.last_known) {
                   console.log(`  Calendar event UPDATED: ${calEventId}`);
                   summary.updated++;
                 } else {
@@ -159,7 +175,7 @@ program
                 summary.errors++;
               }
             } else {
-              if (cfgEvent.last_known) {
+              if (datesChanged && cfgEvent.last_known) {
                 console.log('  [DRY RUN] Would UPDATE calendar event');
                 summary.updated++;
               } else {
@@ -169,10 +185,12 @@ program
             }
 
             // Update config with new dates
-            cfgEvent.last_known = {
-              start: extracted.start_date,
-              end: extracted.end_date,
-            };
+            if (datesChanged) {
+              cfgEvent.last_known = {
+                start: extracted.start_date,
+                end: extracted.end_date,
+              };
+            }
           } else {
             console.log('  Dates unchanged');
             summary.unchanged++;
