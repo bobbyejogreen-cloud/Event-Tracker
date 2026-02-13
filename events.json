@@ -1,10 +1,10 @@
 {
-  "google_calendar_id": "primary",
-  "last_global_check": "2026-02-13T07:10:16.312Z",
+  "google_calendar_id": "6764c02143fec1795120de6c7a7d8753df85b68bf8b7421e77cbbb4d1c905f48@group.calendar.google.com",
+  "last_global_check": "2026-02-13T07:30:01.004Z",
   "events": [
     {
       "name": "Davos (World Economic Forum)",
-      "url": "https://www.weforum.org/events/world-economic-forum-annual-meeting-2026/",
+      "url": "https://www.weforum.org/meetings/",
       "tags": [
         "international",
         "policy",
@@ -17,8 +17,8 @@
         "start": "2026-01-19",
         "end": "2026-01-23"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:25:24.131Z",
+      "calendar_event_id": "9bq2f02rtbeve2k7au3bie3hj8"
     },
     {
       "name": "SpaceCom / Space Congress",
@@ -31,11 +31,11 @@
       "typical_location": "FL",
       "organizer": "SpaceCom",
       "last_known": {
-        "start": "2026-01-11",
-        "end": "2026-01-14"
+        "start": "2027-01-11",
+        "end": "2027-01-14"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:25:27.285Z",
+      "calendar_event_id": "2l6mnte1idsit4n3bprqmpqcpo"
     },
     {
       "name": "Surface Navy National Symposium",
@@ -51,8 +51,8 @@
         "start": "2026-01-13",
         "end": "2026-01-15"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:25:30.188Z",
+      "calendar_event_id": "6rbr157ksl9um6qa6gdfnvqu70"
     },
     {
       "name": "Apex Defense Summit",
@@ -67,7 +67,7 @@
         "start": "2026-01-27",
         "end": "2026-01-28"
       },
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:25:32.807Z",
       "calendar_event_id": null
     },
     {
@@ -84,8 +84,8 @@
         "start": "2026-02-09",
         "end": "2026-02-10"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:25:34.613Z",
+      "calendar_event_id": "o95rsm703gfih6cmnn9nfe8juk"
     },
     {
       "name": "World Defense Show",
@@ -101,8 +101,8 @@
         "start": "2026-02-08",
         "end": "2026-02-12"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:25:40.071Z",
+      "calendar_event_id": "a9fugk2jsed84p1u68efi437cs"
     },
     {
       "name": "Munich Security Conference",
@@ -115,13 +115,16 @@
       "typical_month": "February",
       "typical_location": "Munich, Germany",
       "organizer": "MSC",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_known": {
+        "start": "2026-02-13",
+        "end": "2026-02-15"
+      },
+      "last_checked": "2026-02-13T07:25:43.627Z",
+      "calendar_event_id": "bobilfgamfh00ko1nvkli6oq9g"
     },
     {
       "name": "AFCEA West",
-      "url": "https://www.westconference.org/",
+      "url": "https://usveteransmagazine.com/event/afcea-u-s-naval-institute-west-conference-exposition-2026/",
       "tags": [
         "defense",
         "IT",
@@ -134,12 +137,12 @@
         "start": "2026-02-10",
         "end": "2026-02-12"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:25:47.379Z",
+      "calendar_event_id": "mho6jqe4k3lptrmrmmsht25rl8"
     },
     {
       "name": "NDIA Special Operations Symposium",
-      "url": null,
+      "url": "https://www.govevents.com/details/95536/36th-annual-ndia-special-operations-symposium",
       "tags": [
         "defense",
         "special operations"
@@ -151,8 +154,8 @@
         "start": "2026-02-17",
         "end": "2026-02-18"
       },
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_checked": "2026-02-13T07:25:50.231Z",
+      "calendar_event_id": "52t5p2r6i20k1nidln1ahrrp3s",
       "notes": "Generic NDIA events page — let fallback search handle"
     },
     {
@@ -187,8 +190,8 @@
         "start": "2026-02-18",
         "end": "2026-02-19"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:25:53.616Z",
+      "calendar_event_id": "eqm2dtk6jqhl5blemkjtinj1s0"
     },
     {
       "name": "CyberTalks",
@@ -204,8 +207,8 @@
         "start": "2026-02-19",
         "end": "2026-02-19"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:25:55.463Z",
+      "calendar_event_id": "u2cmk3nc9hdrgqses0rare9o1s"
     },
     {
       "name": "TR/EX",
@@ -218,11 +221,11 @@
       "typical_location": "DC",
       "organizer": "Noble",
       "last_known": {
-        "start": "2026-02-19",
+        "start": "2026-02-18",
         "end": "2026-02-19"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:25:58.999Z",
+      "calendar_event_id": "f98ua8h2klu2v3trd633n794n0"
     },
     {
       "name": "Creative Disruptors in the Desert",
@@ -238,12 +241,12 @@
         "start": "2026-02-20",
         "end": "2026-02-21"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:01.877Z",
+      "calendar_event_id": "b3hht7iq8btjecg71kqrab6pr4"
     },
     {
       "name": "Tactical Wheeled Vehicles Conference",
-      "url": null,
+      "url": "https://www.wispro.org/event/ndia-2026-tactical-wheeled-vehicles-conference-pittsburgh-pa/",
       "tags": [
         "defense",
         "vehicles"
@@ -255,8 +258,8 @@
         "start": "2026-02-23",
         "end": "2026-02-25"
       },
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_checked": "2026-02-13T07:26:05.541Z",
+      "calendar_event_id": "vnu018ocb2n3h1ag5q6uttul78",
       "notes": "Generic NDIA events page — let fallback search handle"
     },
     {
@@ -273,8 +276,8 @@
         "start": "2026-02-23",
         "end": "2026-02-25"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:07.923Z",
+      "calendar_event_id": "kjhf0fp4hpllmedu61jqfs9f78"
     },
     {
       "name": "How We Win Summit (Feb)",
@@ -291,12 +294,12 @@
         "start": "2026-02-26",
         "end": "2026-02-26"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:11.698Z",
+      "calendar_event_id": "33o1tf1hg29liarahhve7uk4mo"
     },
     {
       "name": "Defense Software and Data Summit",
-      "url": null,
+      "url": "https://www.govini.com/request-an-invite-2026-defense-software-and-data-summit",
       "tags": [
         "defense",
         "software",
@@ -305,9 +308,12 @@
       "typical_month": "February",
       "typical_location": "DC",
       "organizer": "Govini",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_known": {
+        "start": "2026-03-10",
+        "end": "2026-03-10"
+      },
+      "last_checked": "2026-02-13T07:26:14.981Z",
+      "calendar_event_id": "shr9uer7sr54io1v4mui010n78",
       "notes": "No URL found — needs fallback search"
     },
     {
@@ -324,8 +330,8 @@
         "start": "2026-03-03",
         "end": "2026-03-04"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:16.945Z",
+      "calendar_event_id": "l3nbm75q54i1r0iiafqur085uo"
     },
     {
       "name": "Space Operations Summit",
@@ -341,8 +347,8 @@
         "start": "2026-03-04",
         "end": "2026-03-05"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:20.754Z",
+      "calendar_event_id": "u4v3m02g8m6gma8v2s06k1hfn0"
     },
     {
       "name": "IEEE Aerospace Conference",
@@ -359,8 +365,8 @@
         "start": "2026-03-07",
         "end": "2026-03-14"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:22.712Z",
+      "calendar_event_id": "p4b5l77p03ee1mc4csq9hli72k"
     },
     {
       "name": "POST Conference",
@@ -375,12 +381,12 @@
         "start": "2026-03-09",
         "end": "2026-03-12"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:25.244Z",
+      "calendar_event_id": "e3mogrjennc25gpjk9urp5jn6s"
     },
     {
       "name": "Tectonic Defense Summit",
-      "url": "https://events.tectonicdefense.com/tectonic-defense-summit",
+      "url": "https://www.tectonicdefense.com/events/",
       "tags": [
         "defense",
         "technology"
@@ -392,8 +398,8 @@
         "start": "2026-03-11",
         "end": "2026-03-12"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:28.623Z",
+      "calendar_event_id": "afqi71bhtvh0a5s8nr6e85a95c"
     },
     {
       "name": "SXSW",
@@ -410,8 +416,8 @@
         "start": "2026-03-12",
         "end": "2026-03-18"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:31.122Z",
+      "calendar_event_id": "qknfvsphtl8hv8rpvt3mpsvt2g"
     },
     {
       "name": "NVIDIA GTC",
@@ -428,8 +434,8 @@
         "start": "2026-03-16",
         "end": "2026-03-19"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:33.216Z",
+      "calendar_event_id": "aiiafntgmjg1vopo2ist4do6pk"
     },
     {
       "name": "McAleese Defense Programs Conference",
@@ -443,11 +449,11 @@
       "typical_location": "DC",
       "organizer": "McAleese and Assoc",
       "last_known": {
-        "start": "2026-03-17",
-        "end": "2026-03-17"
+        "start": "2027-03-16",
+        "end": "2027-03-16"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:35.428Z",
+      "calendar_event_id": "b6j56qp7rnlc1nm1imu4ln4so4"
     },
     {
       "name": "Homeland Security Week",
@@ -463,12 +469,12 @@
         "start": "2026-03-17",
         "end": "2026-03-18"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:40.385Z",
+      "calendar_event_id": "j1frbqgk5oqp7cmgblj390a43o"
     },
     {
       "name": "Human Systems Conference",
-      "url": null,
+      "url": "https://www.ndia.net/events/2026-national-conference-new-orleans",
       "tags": [
         "defense",
         "human systems"
@@ -477,16 +483,16 @@
       "typical_location": "VA",
       "organizer": "NDIA",
       "last_known": {
-        "start": "2026-03-17",
-        "end": "2026-03-18"
+        "start": "2026-04-21",
+        "end": "2026-04-24"
       },
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_checked": "2026-02-13T07:26:44.082Z",
+      "calendar_event_id": "ndrkg3r7t0rniq5r2etqb8m1ek",
       "notes": "Generic NDIA events page — let fallback search handle"
     },
     {
       "name": "Munitions Executive Summit",
-      "url": null,
+      "url": "https://www.govevents.com//profile/1678/ndia--national-defense-industrial-association/",
       "tags": [
         "defense",
         "munitions"
@@ -498,8 +504,8 @@
         "start": "2026-03-17",
         "end": "2026-03-18"
       },
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_checked": "2026-02-13T07:26:46.831Z",
+      "calendar_event_id": "9it7un9l65klde88pcrpgfh27o",
       "notes": "Generic NDIA events page — let fallback search handle"
     },
     {
@@ -517,8 +523,8 @@
         "start": "2026-03-17",
         "end": "2026-03-18"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:49.586Z",
+      "calendar_event_id": "pr6opdi1gqs2jll6ntdobmt9m0"
     },
     {
       "name": "Insider Risk Summit",
@@ -535,8 +541,8 @@
         "start": "2026-03-18",
         "end": "2026-03-19"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:51.492Z",
+      "calendar_event_id": "2skvvj01usol3suo2rgcu0ob5k"
     },
     {
       "name": "Elastic Public Sector Summit",
@@ -552,12 +558,12 @@
         "start": "2026-03-19",
         "end": "2026-03-19"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:53.402Z",
+      "calendar_event_id": "d5q51mdp8047lbis9hjdvacbuk"
     },
     {
       "name": "Undersea Warfare Conference",
-      "url": null,
+      "url": "https://www.govevents.com/details/89535/2025-undersea-warfare-fall-conference/",
       "tags": [
         "defense",
         "navy",
@@ -570,8 +576,8 @@
         "start": "2026-03-23",
         "end": "2026-03-25"
       },
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_checked": "2026-02-13T07:26:56.145Z",
+      "calendar_event_id": "96517j11mt6if3451apkkpam80",
       "notes": "Generic NDIA events page — let fallback search handle"
     },
     {
@@ -588,8 +594,8 @@
         "start": "2026-03-23",
         "end": "2026-03-26"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:26:58.532Z",
+      "calendar_event_id": "4rqqvgtu1810u7a1ei1d81ngoc"
     },
     {
       "name": "AUSA Global Force Symposium",
@@ -605,8 +611,8 @@
         "start": "2026-03-24",
         "end": "2026-03-26"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:00.181Z",
+      "calendar_event_id": "c9iq0idu1feoq1a2du9qe1t8is"
     },
     {
       "name": "How We Win Summit (Mar)",
@@ -655,8 +661,8 @@
         "start": "2026-04-01",
         "end": "2026-04-02"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:03.517Z",
+      "calendar_event_id": "ai1pvgc7bd1446f043eaimo514"
     },
     {
       "name": "TechNatSec",
@@ -673,8 +679,8 @@
         "start": "2026-04-03",
         "end": "2026-04-04"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:05.359Z",
+      "calendar_event_id": "9rgs8ha3vut83o8n1ecs1c2j94"
     },
     {
       "name": "Assured PNT Summit",
@@ -691,12 +697,12 @@
         "start": "2026-04-07",
         "end": "2026-04-08"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:07.516Z",
+      "calendar_event_id": "8cpkml82q32jv30gp6icorpr4k"
     },
     {
       "name": "Unmanned and Autonomous Systems Summit (ADNE)",
-      "url": "https://www.unmannedsystemstechnology.com/events/",
+      "url": "https://www.govevents.com/details/98604/unmanned-and-autonomous-systems-summit",
       "tags": [
         "defense",
         "unmanned",
@@ -709,8 +715,8 @@
         "start": "2026-04-08",
         "end": "2026-04-09"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:11.222Z",
+      "calendar_event_id": "crno57vnt8cuvrf8c0jsck3jn4"
     },
     {
       "name": "Unmanned and Autonomous Summit (DSI)",
@@ -727,8 +733,8 @@
         "start": "2026-04-08",
         "end": "2026-04-09"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:12.774Z",
+      "calendar_event_id": "rbfgajbhqmic7dvlu2rmq4aul8"
     },
     {
       "name": "MOSA for Defense Summit",
@@ -744,12 +750,12 @@
         "start": "2026-04-08",
         "end": "2026-04-09"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:14.749Z",
+      "calendar_event_id": "dkklguo3pgs48dq1hdbk675qpk"
     },
     {
       "name": "Space Symposium",
-      "url": "https://www.spacesymposium.org/",
+      "url": "https://www.everythingrf.com/events/details/1027-space-symposium-2026",
       "tags": [
         "space",
         "defense"
@@ -761,8 +767,8 @@
         "start": "2026-04-13",
         "end": "2026-04-16"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:18.197Z",
+      "calendar_event_id": "41f30vvkquijs9qgod0omce308"
     },
     {
       "name": "Sea Air Space",
@@ -779,12 +785,12 @@
         "start": "2026-04-19",
         "end": "2026-04-22"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:20.535Z",
+      "calendar_event_id": "3fehmklvv9ctuei2i5nb4l8bo0"
     },
     {
       "name": "Missile Defense Conference",
-      "url": null,
+      "url": "https://www.ndiatennvalley.org/",
       "tags": [
         "defense",
         "missile defense"
@@ -796,7 +802,7 @@
         "start": "2026-04-21",
         "end": "2026-04-22"
       },
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:27:22.617Z",
       "calendar_event_id": null,
       "notes": "Generic NDIA events page — let fallback search handle"
     },
@@ -815,8 +821,8 @@
         "start": "2026-04-21",
         "end": "2026-04-22"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:26.155Z",
+      "calendar_event_id": "k1ao8dd296rk0q75dkl06dovbk"
     },
     {
       "name": "DOW/VA Health and Gov Summit",
@@ -833,8 +839,8 @@
         "start": "2026-04-28",
         "end": "2026-04-29"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:27.865Z",
+      "calendar_event_id": "mrgi61g9tf1nu2lj0e51s5vi98"
     },
     {
       "name": "Modern Day Marine",
@@ -850,12 +856,12 @@
         "start": "2026-04-28",
         "end": "2026-04-30"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:29.437Z",
+      "calendar_event_id": "eeh7ak800jkes2embrvgoteevs"
     },
     {
       "name": "Hill and Valley Forum",
-      "url": null,
+      "url": "https://www.thehillandvalleyforum.com/",
       "tags": [
         "defense",
         "policy"
@@ -863,14 +869,17 @@
       "typical_month": "April",
       "typical_location": "DC",
       "organizer": "Hill and Valley Forum Foundation",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_known": {
+        "start": "2025-04-15",
+        "end": null
+      },
+      "last_checked": "2026-02-13T07:27:31.949Z",
+      "calendar_event_id": "rv0h0712b8j71bjt32dqus6jis",
       "notes": "No URL — needs fallback search"
     },
     {
       "name": "TEVCON (Technology Energy Vehicle Conference)",
-      "url": null,
+      "url": "https://tevcon.com/",
       "tags": [
         "technology",
         "energy",
@@ -879,9 +888,12 @@
       "typical_month": "April",
       "typical_location": "CA",
       "organizer": "TEVCON",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_known": {
+        "start": "2026-04-15",
+        "end": null
+      },
+      "last_checked": "2026-02-13T07:27:35.072Z",
+      "calendar_event_id": "selb77ei00ijocam726iki4gm0",
       "notes": "No URL — needs fallback search"
     },
     {
@@ -899,8 +911,8 @@
         "start": "2026-05-03",
         "end": "2026-05-06"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:36.683Z",
+      "calendar_event_id": "8insuo98ck1sh5ahg4qou50kf8"
     },
     {
       "name": "IBM Think",
@@ -917,8 +929,8 @@
         "start": "2026-05-04",
         "end": "2026-05-07"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:38.703Z",
+      "calendar_event_id": "fu4epk66r2df03tmrter68pd7g"
     },
     {
       "name": "Fusion AI (UiPath)",
@@ -935,8 +947,8 @@
         "start": "2026-05-05",
         "end": "2026-05-05"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:40.791Z",
+      "calendar_event_id": "fpj802bf7cfb8s8t1lq555ag64"
     },
     {
       "name": "Border Security Expo",
@@ -952,12 +964,12 @@
         "start": "2026-05-05",
         "end": "2026-05-06"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:43.818Z",
+      "calendar_event_id": "40gsavblnumroc02hlq6nkc3ok"
     },
     {
       "name": "SMR & Advanced Reactor Conference",
-      "url": "https://events.reutersevents.com/nuclear/smr-usa",
+      "url": "https://1.reutersevents.com/LP=38632?extsource=website",
       "tags": [
         "energy",
         "nuclear",
@@ -970,8 +982,8 @@
         "start": "2026-05-11",
         "end": "2026-05-12"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:47.397Z",
+      "calendar_event_id": "3h48as4mcv1paovr6ip9isliho"
     },
     {
       "name": "AUVSI Xponential",
@@ -988,8 +1000,8 @@
         "start": "2026-05-11",
         "end": "2026-05-14"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:49.517Z",
+      "calendar_event_id": "p6cqm6u013bq89oj6i990g3d2k"
     },
     {
       "name": "Air Dominance Summit",
@@ -1005,12 +1017,12 @@
         "start": "2026-05-12",
         "end": "2026-05-13"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:53.299Z",
+      "calendar_event_id": "6lu7dhum16l08qtghgn5bukrmg"
     },
     {
       "name": "Assured Logistics Summit",
-      "url": null,
+      "url": "https://logistics.dsigroup.org/",
       "tags": [
         "defense",
         "logistics"
@@ -1022,8 +1034,8 @@
         "start": "2026-05-12",
         "end": "2026-05-13"
       },
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_checked": "2026-02-13T07:27:55.829Z",
+      "calendar_event_id": "a17l0ugd2p7h9e21ut97r21t8s",
       "notes": "Generic DSI events page — let fallback search handle"
     },
     {
@@ -1041,7 +1053,7 @@
         "start": "2026-05-14",
         "end": "2026-05-14"
       },
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:27:57.380Z",
       "calendar_event_id": null
     },
     {
@@ -1058,8 +1070,8 @@
         "start": "2026-05-18",
         "end": "2026-05-21"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:27:59.478Z",
+      "calendar_event_id": "5pr8o1q16tiegonbti945u926s"
     },
     {
       "name": "Reagan National Economic Forum",
@@ -1075,12 +1087,12 @@
         "start": "2026-05-28",
         "end": "2026-05-29"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:01.108Z",
+      "calendar_event_id": "i1rl5cf4ns600be14tatsrir40"
     },
     {
       "name": "Supply Chain Alliance Symposium",
-      "url": null,
+      "url": "https://www.wispro.org/event/2025-defense-logistics-agency-dla-supply-chain-alliance-conference-exhibition-richmond-va/",
       "tags": [
         "defense",
         "supply chain",
@@ -1093,8 +1105,8 @@
         "start": "2026-06-02",
         "end": "2026-06-03"
       },
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_checked": "2026-02-13T07:28:04.894Z",
+      "calendar_event_id": "s2mm3roqucaeggp06kdhttsr08",
       "notes": "Generic NDIA events page — let fallback search handle"
     },
     {
@@ -1111,12 +1123,12 @@
         "start": "2026-06-16",
         "end": "2026-06-16"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:07.186Z",
+      "calendar_event_id": "3al6miejud9ubrbqk4hc9r6n10"
     },
     {
       "name": "InnovateEnergy Week",
-      "url": "https://innovateenergyweek.com/",
+      "url": "https://innovateenergynow.com/innovateenergy-week-2026",
       "tags": [
         "energy",
         "innovation"
@@ -1128,8 +1140,8 @@
         "start": "2026-06-22",
         "end": "2026-06-24"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:10.879Z",
+      "calendar_event_id": "bu6mq4otsqd1qfqkc9n58ouaq4"
     },
     {
       "name": "Quantum Tech World",
@@ -1145,8 +1157,8 @@
         "start": "2026-06-25",
         "end": "2026-06-26"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:14.325Z",
+      "calendar_event_id": "n3fr2d6bm82q0ccl7fs2c521rk"
     },
     {
       "name": "Paris Air Show",
@@ -1159,14 +1171,17 @@
       "typical_month": "June",
       "typical_location": "Paris, France",
       "organizer": "SIAE",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_known": {
+        "start": "2027-06-14",
+        "end": "2027-06-20"
+      },
+      "last_checked": "2026-02-13T07:28:19.399Z",
+      "calendar_event_id": "ufv9k2h79m3ars1b5er79d3dr4",
       "notes": "Odd years only (2025, 2027). Alternates with Farnborough."
     },
     {
       "name": "CNAS National Security Conference",
-      "url": null,
+      "url": "https://www.cnas.org/events",
       "tags": [
         "defense",
         "national security",
@@ -1176,7 +1191,7 @@
       "typical_location": "DC",
       "organizer": "CNAS",
       "last_known": null,
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:28:21.211Z",
       "calendar_event_id": null,
       "notes": "No URL — needs fallback search"
     },
@@ -1192,7 +1207,7 @@
       "typical_location": "Farnborough, UK",
       "organizer": "Farnborough International",
       "last_known": null,
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:28:22.914Z",
       "calendar_event_id": null,
       "notes": "Even years only (2026, 2028). Alternates with Paris Air Show."
     },
@@ -1207,13 +1222,16 @@
       "typical_month": "August",
       "typical_location": "Edinburgh, UK",
       "organizer": "Royal Edinburgh Military Tattoo",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_known": {
+        "start": "2026-08-01",
+        "end": "2026-08-31"
+      },
+      "last_checked": "2026-02-13T07:28:25.907Z",
+      "calendar_event_id": "qmflhf8cje75k4nr3gbjk4mavo"
     },
     {
       "name": "Reindustrialize Summit",
-      "url": "https://reindustrialize.com/",
+      "url": "https://en.wikipedia.org/wiki/Reindustrialize_Summit",
       "tags": [
         "defense",
         "manufacturing",
@@ -1224,13 +1242,13 @@
       "typical_location": "MI",
       "organizer": "Reindustrialize",
       "last_known": null,
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:28:29.733Z",
       "calendar_event_id": null,
       "notes": "Annual summit in Detroit — tech, manufacturing, government, defense leaders"
     },
     {
       "name": "Global Quantum Forum",
-      "url": null,
+      "url": "https://chicagoquantum.org/event/global-quantum-forum",
       "tags": [
         "quantum",
         "technology"
@@ -1239,7 +1257,7 @@
       "typical_location": "IL",
       "organizer": null,
       "last_known": null,
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:28:31.318Z",
       "calendar_event_id": null,
       "notes": "No URL or organizer — needs fallback search"
     },
@@ -1258,7 +1276,7 @@
         "start": "2026-07-28",
         "end": "2026-07-28"
       },
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:28:32.215Z",
       "calendar_event_id": null
     },
     {
@@ -1275,8 +1293,8 @@
         "start": "2026-07-28",
         "end": "2026-07-29"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:36.939Z",
+      "calendar_event_id": "4u4i6ab4l60rr2rl3dd2q8qc0o"
     },
     {
       "name": "Counter UAS Conference",
@@ -1292,8 +1310,8 @@
         "start": "2026-08-18",
         "end": "2026-08-19"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:39.994Z",
+      "calendar_event_id": "upc3qb8ic73rkl6dn1uit8fi7g"
     },
     {
       "name": "AI for Defense Transformation",
@@ -1309,12 +1327,12 @@
         "start": "2026-08-18",
         "end": "2026-08-19"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:43.417Z",
+      "calendar_event_id": "1bfhhifga8p7mqfulorh8r5h2c"
     },
     {
       "name": "Small Sat Conference",
-      "url": "https://smallsat.org/",
+      "url": "https://smallsateurope.com/",
       "tags": [
         "space",
         "satellites"
@@ -1323,11 +1341,11 @@
       "typical_location": "UT",
       "organizer": "SmallSat",
       "last_known": {
-        "start": "2026-08-23",
-        "end": "2026-08-26"
+        "start": "2026-05-26",
+        "end": "2026-05-28"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:48.640Z",
+      "calendar_event_id": "f37qtssaab0nqk9dc3nb76pdls"
     },
     {
       "name": "FedSuperNova",
@@ -1344,8 +1362,8 @@
         "start": "2026-08-25",
         "end": "2026-08-27"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:51.018Z",
+      "calendar_event_id": "ciu4n4v00tdcv4tjtqudk4viio"
     },
     {
       "name": "NGAUS General Conference and Exhibition",
@@ -1361,8 +1379,8 @@
         "start": "2026-08-28",
         "end": "2026-08-31"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:52.944Z",
+      "calendar_event_id": "o2djdjkensca0tug3546tgdmbg"
     },
     {
       "name": "IEEE Quantum Week",
@@ -1379,8 +1397,8 @@
         "start": "2026-09-13",
         "end": "2026-09-18"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:55.707Z",
+      "calendar_event_id": "ev0ndnqphqf92moo90bli1u9m4"
     },
     {
       "name": "Quantum World Congress",
@@ -1396,8 +1414,8 @@
         "start": "2026-09-22",
         "end": "2026-09-24"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:28:57.690Z",
+      "calendar_event_id": "qmo3f7o1q8f3mhoqghaltfh6ro"
     },
     {
       "name": "DefenseTech Connect Innovation Summit",
@@ -1414,8 +1432,8 @@
         "start": "2026-09-22",
         "end": "2026-09-24"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:29:01.341Z",
+      "calendar_event_id": "ves6ur6kl9b4cgq0e5lge5vndo"
     },
     {
       "name": "Border Technology Summit",
@@ -1429,15 +1447,15 @@
       "typical_location": "CA",
       "organizer": "IDGA",
       "last_known": {
-        "start": "2026-09-29",
-        "end": "2026-09-30"
+        "start": "2026-09-22",
+        "end": "2026-09-23"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:29:05.917Z",
+      "calendar_event_id": "i92dlunn4jf44b0pe6gcskvjfg"
     },
     {
       "name": "Global Aerospace Summit",
-      "url": null,
+      "url": "https://www.uschamber.com/events/global-aerospace-summit",
       "tags": [
         "aerospace",
         "defense"
@@ -1446,13 +1464,13 @@
       "typical_location": "DC",
       "organizer": "U.S. Chamber of Commerce",
       "last_known": null,
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:29:07.789Z",
       "calendar_event_id": null,
       "notes": "No URL — needs fallback search"
     },
     {
       "name": "Stanford DEFCON",
-      "url": null,
+      "url": "https://stanforddefcon.org/",
       "tags": [
         "defense",
         "technology",
@@ -1462,13 +1480,13 @@
       "typical_location": "CA",
       "organizer": "Stanford",
       "last_known": null,
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:29:09.792Z",
       "calendar_event_id": null,
       "notes": "No URL — needs fallback search"
     },
     {
       "name": "Defense Logistics and Energy",
-      "url": null,
+      "url": "https://www.idga.org/events-defense-logistics",
       "tags": [
         "defense",
         "logistics",
@@ -1477,14 +1495,17 @@
       "typical_month": "September",
       "typical_location": "VA",
       "organizer": "IDGA",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_known": {
+        "start": "2026-09-22",
+        "end": "2026-09-23"
+      },
+      "last_checked": "2026-02-13T07:29:14.342Z",
+      "calendar_event_id": "tnads8prj4ah18saoahvu8g644",
       "notes": "No URL — needs fallback search"
     },
     {
       "name": "Defense News Conference",
-      "url": null,
+      "url": "https://conference.defensenews.com/",
       "tags": [
         "defense",
         "media"
@@ -1493,7 +1514,7 @@
       "typical_location": "DC",
       "organizer": "Defense News",
       "last_known": null,
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:29:17.209Z",
       "calendar_event_id": null,
       "notes": "No URL — needs fallback search"
     },
@@ -1507,9 +1528,12 @@
       "typical_month": "September",
       "typical_location": "TBD",
       "organizer": "CDF",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_known": {
+        "start": "2026-09-01",
+        "end": null
+      },
+      "last_checked": "2026-02-13T07:29:20.980Z",
+      "calendar_event_id": "1ltofcqs773mtfu1nggcuh28bg"
     },
     {
       "name": "Apex Europe",
@@ -1525,8 +1549,8 @@
         "start": "2026-10-07",
         "end": "2026-10-08"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:29:23.731Z",
+      "calendar_event_id": "53tdorp0p7vv4o657uvatq2qjo"
     },
     {
       "name": "AUSA Annual Conference",
@@ -1542,8 +1566,8 @@
         "start": "2026-10-12",
         "end": "2026-10-14"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:29:25.305Z",
+      "calendar_event_id": "u5jr178t0pusluci2tmi0ics1g"
     },
     {
       "name": "IQT Quantum+AI",
@@ -1559,12 +1583,12 @@
         "start": "2026-10-25",
         "end": "2026-10-27"
       },
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_checked": "2026-02-13T07:29:28.321Z",
+      "calendar_event_id": "g2me3ichvt7u8u7mgf0q8nqk5k"
     },
     {
       "name": "Halifax International Security Forum",
-      "url": "https://halifaxtheforum.org/",
+      "url": "https://en.wikipedia.org/wiki/Halifax_International_Security_Forum",
       "tags": [
         "international",
         "defense",
@@ -1573,13 +1597,16 @@
       "typical_month": "November",
       "typical_location": "Halifax, Canada",
       "organizer": "HISF",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null
+      "last_known": {
+        "start": "2025-11-21",
+        "end": "2025-11-23"
+      },
+      "last_checked": "2026-02-13T07:29:32.675Z",
+      "calendar_event_id": "i0skjjmral9kise8v6nk7dt6qg"
     },
     {
       "name": "Baird Defense & Government Conference",
-      "url": null,
+      "url": "https://www.bairdconferences.com/our-conferences/2026/11/2026-defense-government-conference/",
       "tags": [
         "defense",
         "finance",
@@ -1592,13 +1619,13 @@
         "start": "2026-11-17",
         "end": "2026-11-17"
       },
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_checked": "2026-02-13T07:29:36.057Z",
+      "calendar_event_id": "lrfm3permfmrn1tk3icu0f4v1k",
       "notes": "Baird also hosts Annual Investor Conf in VA — separate event"
     },
     {
       "name": "Baird Annual Investor Conference",
-      "url": null,
+      "url": "https://www.bairdconferences.com/our-conferences/2026/11/2026-defense-government-conference/",
       "tags": [
         "finance",
         "investor",
@@ -1607,14 +1634,17 @@
       "typical_month": "November",
       "typical_location": "VA",
       "organizer": "Baird",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_known": {
+        "start": "2026-11-17",
+        "end": "2026-11-17"
+      },
+      "last_checked": "2026-02-13T07:29:38.988Z",
+      "calendar_event_id": "4rlnvvhjunvs32uskuo81lmgso",
       "notes": "No URL — needs fallback search"
     },
     {
       "name": "America First Policy Experience",
-      "url": null,
+      "url": "https://en.wikipedia.org/wiki/America_First_Policy_Institute",
       "tags": [
         "policy"
       ],
@@ -1622,7 +1652,7 @@
       "typical_location": "FL",
       "organizer": "America First Policy Institute",
       "last_known": null,
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:29:40.907Z",
       "calendar_event_id": null,
       "notes": "No URL — needs fallback search"
     },
@@ -1652,12 +1682,12 @@
       "typical_location": "CA",
       "organizer": "Reagan Institute",
       "last_known": null,
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:29:43.511Z",
       "calendar_event_id": null
     },
     {
       "name": "Q2B (Quantum to Business)",
-      "url": null,
+      "url": "https://q2b.qcware.com/",
       "tags": [
         "quantum",
         "technology",
@@ -1666,9 +1696,12 @@
       "typical_month": "December",
       "typical_location": "CA",
       "organizer": null,
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_known": {
+        "start": "2026-06-04",
+        "end": "2026-06-05"
+      },
+      "last_checked": "2026-02-13T07:29:45.911Z",
+      "calendar_event_id": "fn6m4ti0f0k073bq6rlc00gab4",
       "notes": "No URL — needs fallback search"
     },
     {
@@ -1687,8 +1720,8 @@
         "start": "2026-01-13",
         "end": "2026-01-13"
       },
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_checked": "2026-02-13T07:29:48.385Z",
+      "calendar_event_id": "lh5b37d4bu0v0jhf34u1hli1g0",
       "notes": "Featured remarks from DOE Chief Commercialization Officer"
     },
     {
@@ -1706,8 +1739,8 @@
         "start": "2026-01-12",
         "end": "2026-02-09"
       },
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_checked": "2026-02-13T07:29:51.601Z",
+      "calendar_event_id": "3sopfe3hhm9uc41orcbo72ddag",
       "notes": "6-module cohort program for STATION DC members"
     },
     {
@@ -1721,14 +1754,17 @@
       "typical_month": null,
       "typical_location": "DC",
       "organizer": "Station DC",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_known": {
+        "start": "2026-02-02",
+        "end": "2026-02-02"
+      },
+      "last_checked": "2026-02-13T07:29:54.993Z",
+      "calendar_event_id": "o941lj047pqp6a270fuf7ulpr8",
       "notes": "Monthly recurring — first Monday or Tuesday of every month"
     },
     {
       "name": "STATION DC Space STATION Meet Up",
-      "url": "https://www.stationdc.org/events",
+      "url": "https://payloadspace.com/station-dc-is-bringing-the-new-space-economy-to-washington/",
       "tags": [
         "space",
         "technology",
@@ -1739,7 +1775,7 @@
       "typical_location": "DC",
       "organizer": "Station DC",
       "last_known": null,
-      "last_checked": null,
+      "last_checked": "2026-02-13T07:29:59.106Z",
       "calendar_event_id": null,
       "notes": "Recurring space-focused networking event"
     },
@@ -1755,9 +1791,12 @@
       "typical_month": "December",
       "typical_location": "DC",
       "organizer": "Station DC",
-      "last_known": null,
-      "last_checked": null,
-      "calendar_event_id": null,
+      "last_known": {
+        "start": "2026-12-01",
+        "end": null
+      },
+      "last_checked": "2026-02-13T07:30:01.001Z",
+      "calendar_event_id": "ddnnj25a8hjegcttilma1c7sl0",
       "notes": "Flagship year-end tech and venture ecosystem summit + celebration"
     }
   ]
