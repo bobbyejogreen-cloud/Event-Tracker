@@ -7,7 +7,7 @@ const Table = require('cli-table3');
 const config = require('./lib/config');
 const { fetchPage } = require('./lib/scraper');
 const { extractEventDates } = require('./lib/extractor');
-const { upsertCalendarEvent, ensureCalendar } = require('./lib/calendar');
+const { upsertCalendarEvent, deleteCalendarEvent, ensureCalendar } = require('./lib/calendar');
 const { authorize } = require('./lib/auth');
 const { discoverUrl } = require('./lib/search');
 
@@ -88,12 +88,26 @@ program
         }
       }
 
-      // Resync: clear all calendar_event_ids to force recreation
+      // Resync: delete old calendar events, then clear IDs to force recreation
       if (opts.resync) {
-        console.log('RESYNC: Clearing all calendar event IDs to force recreation.\n');
+        console.log('RESYNC: Deleting old calendar events before recreation...');
+        let deleted = 0;
         for (const ev of cfg.events) {
+          if (ev.calendar_event_id && auth && !opts.dryRun) {
+            try {
+              await deleteCalendarEvent(auth, cfg.google_calendar_id, ev.calendar_event_id);
+              deleted++;
+            } catch (err) {
+              console.log(`  Could not delete calendar event for "${ev.name}": ${err.message}`);
+            }
+          }
           ev.calendar_event_id = null;
         }
+        config.save(cfg);
+        if (!opts.dryRun) {
+          console.log(`  Deleted ${deleted} old calendar events.`);
+        }
+        console.log('  All calendar event IDs cleared.\n');
       }
 
       if (opts.dryRun) {
