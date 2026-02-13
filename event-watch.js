@@ -7,7 +7,7 @@ const Table = require('cli-table3');
 const config = require('./lib/config');
 const { fetchPage } = require('./lib/scraper');
 const { extractEventDates } = require('./lib/extractor');
-const { upsertCalendarEvent } = require('./lib/calendar');
+const { upsertCalendarEvent, ensureCalendar } = require('./lib/calendar');
 const { authorize } = require('./lib/auth');
 const { discoverUrl } = require('./lib/search');
 
@@ -327,6 +327,31 @@ program
       const cfg = config.load();
       const removed = config.removeEvent(cfg, opts.name);
       console.log(`Removed: "${removed.name}"`);
+    } catch (err) {
+      console.error(`Error: ${err.message}`);
+      process.exit(1);
+    }
+  });
+
+// ─── INIT COMMAND ──────────────────────────────────────────────────────────
+
+program
+  .command('init')
+  .description('Create a dedicated Google Calendar for event tracking')
+  .option('--name <name>', 'Calendar name', 'Event Watch')
+  .action(async (opts) => {
+    try {
+      const auth = await authorize();
+      console.log(`Creating/finding calendar "${opts.name}"...`);
+      const calendarId = await ensureCalendar(auth, opts.name);
+
+      const cfg = config.load();
+      cfg.google_calendar_id = calendarId;
+      config.save(cfg);
+
+      console.log(`Calendar ready: "${opts.name}"`);
+      console.log(`Calendar ID saved to events.json: ${calendarId}`);
+      console.log('\nAll future events will be added to this calendar.');
     } catch (err) {
       console.error(`Error: ${err.message}`);
       process.exit(1);
