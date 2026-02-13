@@ -7,7 +7,7 @@ const Table = require('cli-table3');
 const config = require('./lib/config');
 const { fetchPage } = require('./lib/scraper');
 const { extractEventDates } = require('./lib/extractor');
-const { upsertCalendarEvent, deleteCalendarEvent, ensureCalendar } = require('./lib/calendar');
+const { upsertCalendarEvent, deleteCalendarEvent, purgeAllEvents, ensureCalendar } = require('./lib/calendar');
 const { authorize } = require('./lib/auth');
 const { discoverUrl } = require('./lib/search');
 
@@ -408,6 +408,34 @@ program
       console.log(`Calendar ready: "${opts.name}"`);
       console.log(`Calendar ID saved to events.json: ${calendarId}`);
       console.log('\nAll future events will be added to this calendar.');
+    } catch (err) {
+      console.error(`Error: ${err.message}`);
+      process.exit(1);
+    }
+  });
+
+// ─── PURGE COMMAND ─────────────────────────────────────────────────────────
+
+program
+  .command('purge')
+  .description('Delete ALL event-watch events from Google Calendar and reset tracking')
+  .action(async () => {
+    try {
+      const auth = await authorize();
+      const cfg = config.load();
+      const calendarId = cfg.google_calendar_id || 'primary';
+
+      console.log('Purging all event-watch events from Google Calendar...\n');
+      const deleted = await purgeAllEvents(auth, calendarId);
+      console.log(`\nDeleted ${deleted} events from Google Calendar.`);
+
+      // Clear all calendar_event_ids in config
+      for (const ev of cfg.events) {
+        ev.calendar_event_id = null;
+      }
+      config.save(cfg);
+      console.log('Cleared all calendar event IDs in events.json.');
+      console.log('\nRun "node event-watch.js check" to recreate events cleanly.');
     } catch (err) {
       console.error(`Error: ${err.message}`);
       process.exit(1);
